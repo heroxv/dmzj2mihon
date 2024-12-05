@@ -14,8 +14,8 @@
 
 ![](https://cdn.jsdelivr.net/gh/heroxv/Image/test/202412060025354.png)
 
-，然后将到备份文件放到
+然后将到备份文件放到
 
 ![](https://cdn.jsdelivr.net/gh/heroxv/Image/test/202412051837121.png)
 
-最后搞定
+搞定
